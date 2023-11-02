@@ -1,5 +1,4 @@
 
-```markdown
 # NIRF College Ranking Analysis Platform
 
 # CodeUtsav7.0 - Problem 1st
@@ -21,7 +20,7 @@ The College Ranking Analysis Platform is an automated tool designed to monitor r
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/college-ranking-analysis.git
+   git clone https://github.com/sonisumit7904/CodeUtsav7.0NIRFAnalyzer
    cd college-ranking-analysis
    ```
 
